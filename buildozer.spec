@@ -1,6 +1,6 @@
 [app]
 
-# (str) Title of your application
+# (str) tTitle of your application
 title = Attendance System By Nishant
 
 # (str) Package name
